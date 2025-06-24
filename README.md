@@ -12,8 +12,9 @@
   <img src="https://github.com/user-attachments/assets/aec472db-ae4c-49f5-8bd1-5c42e906b5f8" width="15%" style="margin: 0 10px;" alt="Blockchain Solana">
 </p>
 
-```
 ## 🛠️ <img src="https://cryptologos.cc/logos/solana-sol-logo.png" alt="Solana" width="24" height="24"/> Setup
+
+```
 > Interactive demonstration of Solana token rugpull mechanics with Docker containerization
 
 ## 🛠 Installation
