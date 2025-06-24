@@ -98,9 +98,7 @@ sudo ./installer.sh
 - Interactive menu requires terminal with arrow key support
 
 ## ⚖️ Disclaimer
-Here’s a **strong disclaimer** for your GitHub project to warn against malicious use on Solana Mainnet. You can place this in your `README.md`, preferably in a **"⚠️ Legal Disclaimer"** section:
-
----
+--
 
 ### ⚠️ LEGAL DISCLAIMER  
 **This tool is for educational and demonstration purposes ONLY.**  
