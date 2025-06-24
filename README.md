@@ -92,22 +92,31 @@ chmod +x installer.sh start.sh
 - Interactive menu requires terminal with arrow key support
 
 ## ⚖️ Disclaimer
-This tool is for **educational purposes only**. Demonstrates security concepts in controlled DevNet environment.
+⚠️ LEGAL DISCLAIMER
+This tool is for educational and demonstration purposes ONLY.
 
+🚨 WARNING:
+
+DO NOT USE this software on Solana Mainnet or any live blockchain environment
+The demonstrated techniques (token cloning, liquidity manipulation, rug pulls) are ILLEGAL when applied to real projects
+Unauthorized use may result in:
+Legal prosecution (financial fraud, wire fraud, or computer crime charges)
+Financial losses for victims (you may be liable for damages)
+Permanent bans from crypto exchanges/services
+
+🔬 Intended Use:
+Academic research on blockchain security
+Whitehat/auditor training to detect scams
+Strictly on Solana DevNet/TestNet
+
+⚖️ By using this tool, you agree:
+You understand the legal risks
+You will not deploy this against real projects/tokens
+You assume full responsibility for any misuse
+
+The developers disclaim all liability for illegal use.
 ---
 <p align="left">
   <img src="https://github.com/user-attachments/assets/d4920bb4-8235-4d5f-a97a-3b5e90cb8c0b" width="60%" style="margin: 0 10px;" alt="titre">
 </p>
 ```
-
-Key features:
-1. **Badges** for tech stack visibility
-2. **Visual hierarchy** with emojis
-3. **Troubleshooting** section for common issues
-4. **Table format** for command reference
-5. **Disclaimer** for legal protection
-
-Would you like me to:
-1. Add specific screenshots of the menu?
-2. Include more detailed technical requirements?
-3. Add a FAQ section about Solana DevNet setup?
