@@ -5,8 +5,7 @@
 </p>
 
 
-The less you know the better !
-Here's a `README.md` file with icons and clear installation instructions for your GitHub project:
+THE LESS YOU KNOW THE BETTER IS  !
 
 ```markdown
 # 🚀 RugPull Solana - Interactive Docker Tool
