@@ -27,7 +27,7 @@
 chmod +x installer.sh start.sh
 
 # 2. Run automated installation
-./installer.sh
+sudo ./installer.sh
 
 # 3. Launch interactive menu
 ./start.sh
