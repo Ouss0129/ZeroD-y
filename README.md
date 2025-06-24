@@ -1,6 +1,6 @@
 # ZeroD-y
 
-<p align="left"
+<p align="Left"
   <img src="https://github.com/user-attachments/assets/3acf19c5-b117-441f-8deb-b3a34bb549db" width="50%" style="margin: 0 10px;" alt="titre">
 </p>
 
