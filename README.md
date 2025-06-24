@@ -8,9 +8,8 @@ Here's a `README.md` file with icons and clear installation instructions for you
 ```markdown
 # 🚀 RugPull Solana Demo - Interactive Docker Tool
 
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-4E4E4E?style=for-the-badge&logo=solana&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![image](https://github.com/user-attachments/assets/f8d2ae3d-d8ba-47b7-be8d-c96cafa80509)
+![image](https://github.com/user-attachments/assets/aec472db-ae4c-49f5-8bd1-5c42e906b5f8)
 
 > Interactive demonstration of Solana token rugpull mechanics with Docker containerization
 
