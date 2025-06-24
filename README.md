@@ -3,7 +3,7 @@
 <p align="left">
   <img src="https://github.com/user-attachments/assets/3acf19c5-b117-441f-8deb-b3a34bb549db" width="50%" style="margin: 0 10px;" alt="titre">
 </p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loqiu971&layout=compact&theme=dracula)](https://github.com/Loqiu971/github-readme-stats)
 The less you know the better !
 Here's a `README.md` file with icons and clear installation instructions for your GitHub project:
 
