@@ -9,7 +9,7 @@
 # 🚀 RugPull Solana - Interactive Docker Tool - THE LESS YOU KNOW THE BETTER IS  !
 ```
 
-# <img src="https://github.com/user-attachments/assets/3edd134a-b1b3-4193-8a44-a220b003f42f" width="15%" style="margin: 0 10px;" alt="Blockchain Solana"> Setup
+# <img src="https://github.com/user-attachments/assets/281b4061-e87f-4c25-b62c-46fa20ad86f1" width="15%" style="margin: 0 10px;" alt="Blockchain Solana"> Setup
 
 ```
 > Interactive demonstration of Solana token rugpull mechanics with Docker containerization
