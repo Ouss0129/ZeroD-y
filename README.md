@@ -1,6 +1,7 @@
 # ZeroD-y
 
 ![istockphoto-531324562-612x612](https://github.com/user-attachments/assets/3acf19c5-b117-441f-8deb-b3a34bb549db)
+
 The less you know the better !
 Here's a `README.md` file with icons and clear installation instructions for your GitHub project:
 
