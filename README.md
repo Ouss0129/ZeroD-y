@@ -125,4 +125,3 @@ sudo ./installer.sh
 <p align="left">
   <img src="https://github.com/user-attachments/assets/d4920bb4-8235-4d5f-a97a-3b5e90cb8c0b" width="40%" style="margin: 0 10px;" alt="titre">
 </p>
-```
