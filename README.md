@@ -1,6 +1,6 @@
 # ZeroD-y
 
-<p align="Left"
+<p align="left">
   <img src="https://github.com/user-attachments/assets/3acf19c5-b117-441f-8deb-b3a34bb549db" width="50%" style="margin: 0 10px;" alt="titre">
 </p>
 
@@ -95,7 +95,7 @@ chmod +x installer.sh start.sh
 This tool is for **educational purposes only**. Demonstrates security concepts in controlled DevNet environment.
 
 ---
-<p align="left"
+<p align="left">
   <img src="https://github.com/user-attachments/assets/d4920bb4-8235-4d5f-a97a-3b5e90cb8c0b" width="60%" style="margin: 0 10px;" alt="titre">
 </p>
 ```
