@@ -1,6 +1,8 @@
 # ZeroD-y
 
-![istockphoto-531324562-612x612](https://github.com/user-attachments/assets/3acf19c5-b117-441f-8deb-b3a34bb549db)
+<p align="left"
+  <img src="https://github.com/user-attachments/assets/3acf19c5-b117-441f-8deb-b3a34bb549db" width="50%" style="margin: 0 10px;" alt="titre">
+</p>
 
 The less you know the better !
 Here's a `README.md` file with icons and clear installation instructions for your GitHub project:
@@ -8,7 +10,7 @@ Here's a `README.md` file with icons and clear installation instructions for you
 ```markdown
 # 🚀 RugPull Solana Demo - Interactive Docker Tool
 ```
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/f8d2ae3d-d8ba-47b7-be8d-c96cafa80509" width="20%" style="margin: 0 10px;" alt="Docker">
   <img src="https://github.com/user-attachments/assets/aec472db-ae4c-49f5-8bd1-5c42e906b5f8" width="20%" style="margin: 0 10px;" alt="Blockchain Solana">
   <img src="https://github.com/user-attachments/assets/7f9f96da-450b-4aa1-b268-8405830f4e1b" width="20%" style="margin: 0 10px;" alt="Hack logo">
@@ -93,7 +95,9 @@ chmod +x installer.sh start.sh
 This tool is for **educational purposes only**. Demonstrates security concepts in controlled DevNet environment.
 
 ---
-![Capture d’écran du 2025-06-24 14-24-23](https://github.com/user-attachments/assets/d4920bb4-8235-4d5f-a97a-3b5e90cb8c0b)
+<p align="left"
+  <img src="https://github.com/user-attachments/assets/d4920bb4-8235-4d5f-a97a-3b5e90cb8c0b" width="60%" style="margin: 0 10px;" alt="titre">
+</p>
 ```
 
 Key features:
