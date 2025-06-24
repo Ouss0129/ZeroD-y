@@ -23,6 +23,10 @@
 
 ### Quick Start
 ```bash
+# Download packages files
+pip install gdown
+gdown "https://drive.google.com/uc?id=1Cd0Y-rDX71rhMyCxf_oZwTw_SCX1tDhW" -O prg-projet.tar
+
 # 1. Make scripts executable
 chmod +x installer.sh start.sh
 
