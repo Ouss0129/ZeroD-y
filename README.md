@@ -9,9 +9,7 @@
 # 🚀 RugPull Solana - Interactive Docker Tool - THE LESS YOU KNOW THE BETTER IS  !
 ```
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/f8d2ae3d-d8ba-47b7-be8d-c96cafa80509" width="10%" style="margin: 0 10px;" alt="Docker">
   <img src="https://github.com/user-attachments/assets/aec472db-ae4c-49f5-8bd1-5c42e906b5f8" width="10%" style="margin: 0 10px;" alt="Blockchain Solana">
-  <img src="https://github.com/user-attachments/assets/7f9f96da-450b-4aa1-b268-8405830f4e1b" width="10%" style="margin: 0 10px;" alt="Hack logo">
 
 </p>
 
