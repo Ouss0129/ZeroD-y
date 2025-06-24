@@ -9,7 +9,7 @@ The less you know the better !
 Here's a `README.md` file with icons and clear installation instructions for your GitHub project:
 
 ```markdown
-# 🚀 RugPull Solana Demo - Interactive Docker Tool
+# 🚀 RugPull Solana - Interactive Docker Tool
 ```
 <p align="left">
   <img src="https://github.com/user-attachments/assets/f8d2ae3d-d8ba-47b7-be8d-c96cafa80509" width="10%" style="margin: 0 10px;" alt="Docker">
