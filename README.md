@@ -22,18 +22,25 @@
 - Docker installed (will be auto-installed if missing)
 
 ### Quick Start
-```bash
-# Download packages files
+
+# 1. Download packages files
+
 pip install gdown
 gdown "https://drive.google.com/uc?id=1Cd0Y-rDX71rhMyCxf_oZwTw_SCX1tDhW" -O prg-projet.tar
 
-# 1. Make scripts executable
+
+# 2. Make scripts executable
+
 chmod +x installer.sh start.sh
 
-# 2. Run automated installation
+
+# 3. Run automated installation
+
 sudo ./installer.sh
 
-# 3. Launch interactive menu
+
+# 4. Launch interactive menu
+
 ./start.sh
 ```
 
