@@ -92,29 +92,32 @@ chmod +x installer.sh start.sh
 - Interactive menu requires terminal with arrow key support
 
 ## ⚖️ Disclaimer
-⚠️ LEGAL DISCLAIMER
-This tool is for educational and demonstration purposes ONLY.
+Here’s a **strong disclaimer** for your GitHub project to warn against malicious use on Solana Mainnet. You can place this in your `README.md`, preferably in a **"⚠️ Legal Disclaimer"** section:
 
-🚨 WARNING:
+---
 
-DO NOT USE this software on Solana Mainnet or any live blockchain environment
-The demonstrated techniques (token cloning, liquidity manipulation, rug pulls) are ILLEGAL when applied to real projects
-Unauthorized use may result in:
-Legal prosecution (financial fraud, wire fraud, or computer crime charges)
-Financial losses for victims (you may be liable for damages)
-Permanent bans from crypto exchanges/services
+### ⚠️ LEGAL DISCLAIMER  
+**This tool is for educational and demonstration purposes ONLY.**  
 
-🔬 Intended Use:
-Academic research on blockchain security
-Whitehat/auditor training to detect scams
-Strictly on Solana DevNet/TestNet
+🚨 **WARNING:**  
+- **DO NOT USE** this software on Solana Mainnet or any live blockchain environment  
+- The demonstrated techniques (**token cloning, liquidity manipulation, rug pulls**) are **ILLEGAL** when applied to real projects  
+- Unauthorized use may result in:  
+  - **Legal prosecution** (financial fraud, wire fraud, or computer crime charges)  
+  - **Financial losses** for victims (you may be liable for damages)  
+  - **Permanent bans** from crypto exchanges/services  
 
-⚖️ By using this tool, you agree:
-You understand the legal risks
-You will not deploy this against real projects/tokens
-You assume full responsibility for any misuse
+🔬 **Intended Use:**  
+- Academic research on blockchain security  
+- Whitehat/auditor training to detect scams  
+- **Strictly on Solana DevNet/TestNet**  
 
-The developers disclaim all liability for illegal use.
+⚖️ **By using this tool, you agree:**  
+1. You understand the legal risks  
+2. You **will not** deploy this against real projects/tokens  
+3. You assume **full responsibility** for any misuse  
+
+**The developers disclaim all liability for illegal use.**  
 ---
 <p align="left">
   <img src="https://github.com/user-attachments/assets/d4920bb4-8235-4d5f-a97a-3b5e90cb8c0b" width="60%" style="margin: 0 10px;" alt="titre">
