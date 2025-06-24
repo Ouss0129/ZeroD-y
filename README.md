@@ -89,7 +89,7 @@ chmod +x installer.sh start.sh
 This tool is for **educational purposes only**. Demonstrates security concepts in controlled DevNet environment.
 
 ---
-![Demo Screenshot](https://via.placeholder.com/800x400?text=RugPull+Demo+Screenshot) *(replace with actual screenshot)*
+![Capture d’écran du 2025-06-24 14-24-23](https://github.com/user-attachments/assets/d4920bb4-8235-4d5f-a97a-3b5e90cb8c0b)
 ```
 
 Key features:
