@@ -54,14 +54,14 @@ sudo ./installer.sh
 
 ## 1. Télécharger l'image Docker
 ```
-docker pull ghcr.io/votre_username/rugpull-app:latest
+docker pull ghcr.io/ouss0129/prg-image:latest
 ```
 ## 2. Lancer le conteneur (avec volume pour la persistance)
 ```
-docker run -it --name rugpull \
+docker run -it --name prg-image \
   -v $(pwd)/data:/app/data \
   -p 455:455 \
-  ghcr.io/votre_username/rugpull-app
+  ghcr.io/ouss0129/prg-image
 ```
 
 ## 3. Exécuter le script (dans le conteneur)
