@@ -11,7 +11,7 @@
 
 # <img src="https://github.com/user-attachments/assets/281b4061-e87f-4c25-b62c-46fa20ad86f1" width="5%" height="30%" style="margin: 0 10px;" alt="Blockchain Solana"> Setup
 
-```
+
 > Interactive demonstration of Solana token rugpull mechanics with Docker containerization
 
 ## 🛠 Installation
@@ -23,25 +23,25 @@
 ### Quick Start
 
 # 1. Download packages files
-
+```
 pip install gdown
 gdown "https://drive.google.com/uc?id=1Cd0Y-rDX71rhMyCxf_oZwTw_SCX1tDhW" -O prg-projet.tar
-
+```
 
 # 2. Make scripts executable
-
+```
 chmod +x installer.sh start.sh
-
+```
 
 # 3. Run automated installation
-
+```
 sudo ./installer.sh
-
+```
 
 # 4. Launch interactive menu
-
+```
 ./start.sh
-
+```
 # 🐳 Projet RugPull - Setup Docker
 
 ## 📦 Prérequis
@@ -52,17 +52,20 @@ sudo ./installer.sh
 
 ## 🚀 Installation Rapide
 
-```bash
 # 1. Télécharger l'image Docker
+```
 docker pull ghcr.io/votre_username/rugpull-app:latest
-
+```
 # 2. Lancer le conteneur (avec volume pour la persistance)
+```
 docker run -it --name rugpull \
   -v $(pwd)/data:/app/data \
   -p 455:455 \
   ghcr.io/votre_username/rugpull-app
+```
 
 # 3. Exécuter le script (dans le conteneur)
+```
 ./rugpull_realistic.py
 ```
 
