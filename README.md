@@ -52,11 +52,11 @@ sudo ./installer.sh
 
 ## 🚀 Installation Rapide
 
-# 1. Télécharger l'image Docker
+## 1. Télécharger l'image Docker
 ```
 docker pull ghcr.io/votre_username/rugpull-app:latest
 ```
-# 2. Lancer le conteneur (avec volume pour la persistance)
+## 2. Lancer le conteneur (avec volume pour la persistance)
 ```
 docker run -it --name rugpull \
   -v $(pwd)/data:/app/data \
@@ -64,7 +64,7 @@ docker run -it --name rugpull \
   ghcr.io/votre_username/rugpull-app
 ```
 
-# 3. Exécuter le script (dans le conteneur)
+## 3. Exécuter le script (dans le conteneur)
 ```
 ./rugpull_realistic.py
 ```
