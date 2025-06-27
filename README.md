@@ -41,6 +41,29 @@ sudo ./installer.sh
 # 4. Launch interactive menu
 
 ./start.sh
+
+# 🐳 Projet RugPull - Setup Docker
+
+## 📦 Prérequis
+
+- Docker installé ([Installation Guide](https://docs.docker.com/get-docker/))
+- Compte GitHub
+- 4GB de RAM minimum recommandé
+
+## 🚀 Installation Rapide
+
+```bash
+# 1. Télécharger l'image Docker
+docker pull ghcr.io/votre_username/rugpull-app:latest
+
+# 2. Lancer le conteneur (avec volume pour la persistance)
+docker run -it --name rugpull \
+  -v $(pwd)/data:/app/data \
+  -p 455:455 \
+  ghcr.io/votre_username/rugpull-app
+
+# 3. Exécuter le script (dans le conteneur)
+./rugpull_realistic.py
 ```
 
 ## 📦 Project Structure
