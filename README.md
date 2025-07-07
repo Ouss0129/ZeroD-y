@@ -10,7 +10,16 @@
 ```
 
 # <img src="https://github.com/user-attachments/assets/281b4061-e87f-4c25-b62c-46fa20ad86f1" width="5%" height="30%" style="margin: 0 10px;" alt="Blockchain Solana"> Setup
+## 📦 Quick Start (Start.sh)
 
+```bash
+# 1. Download packets (if missing)
+git clone https://github.com/ouss0129/solana-rugpull-demo.git
+
+# 2. Run the project
+cd solana-rugpull-demo
+./start.sh
+````
 
 > Interactive demonstration of Solana token rugpull mechanics with Docker containerization
 
@@ -39,17 +48,6 @@ docker run -it --name prg-image \
 ./rugpull_realistic.py
 ```
 ---
-
-## 📦 Quick Start (Start.sh)
-
-```bash
-# 1. Download packets (if missing)
-git clone https://github.com/ouss0129/solana-rugpull-demo.git
-
-# 2. Run the project
-cd solana-rugpull-demo
-./start.sh
-````
 
 ### Interactive Menu Features
 ```
