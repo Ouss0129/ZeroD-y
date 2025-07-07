@@ -33,14 +33,14 @@ cd solana-rugpull-demo
 
 ## 1. Télécharger l'image Docker
 ```
-docker pull ghcr.io/ouss0129/prg-image:latest
+docker pull ghcr.io/ouss0129/demodevnet:latest
 ```
 ## 2. Lancer le conteneur (avec volume pour la persistance)
 ```
-docker run -it --name prg-image \
+docker run -it --name demodevnet \
   -v $(pwd)/data:/app/data \
   -p 455:455 \
-  ghcr.io/ouss0129/prg-image
+  ghcr.io/ouss0129/demodevnet
 ```
 
 ## 3. Exécuter le script (dans le conteneur)
