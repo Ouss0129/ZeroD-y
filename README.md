@@ -14,11 +14,11 @@
 Quick Start (Start.sh)
 
 
-# 1. Download packets (if missing)
+#### 1. Download packets (if missing)
 ```
 git clone https://github.com/ouss0129/solana-rugpull-demo.git
 ```
-# 2. Run the project
+#### 2. Run the project
 ```
 cd solana-rugpull-demo
 ```
