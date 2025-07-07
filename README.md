@@ -13,13 +13,18 @@
 ## 📦Première méthode d'installation :
 Quick Start (Start.sh)
 
-```bash
-# 1. Download packets (if missing)
-git clone https://github.com/ouss0129/solana-rugpull-demo.git
 
+# 1. Download packets (if missing)
+```
+git clone https://github.com/ouss0129/solana-rugpull-demo.git
+```
 # 2. Run the project
+```
 cd solana-rugpull-demo
+```
+```
 ./start.sh
+```
 ````
 
 > Interactive demonstration of Solana token rugpull mechanics with Docker containerization
