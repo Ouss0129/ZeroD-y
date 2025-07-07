@@ -31,8 +31,6 @@ Prérequis
 - Compte GitHub
 - 4GB de RAM minimum recommandé
 
-## 🚀 Installation Rapide
-
 ## 1. Télécharger l'image Docker
 ```
 docker pull ghcr.io/ouss0129/demodevnet:latest
