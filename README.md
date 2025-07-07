@@ -10,7 +10,7 @@
 ```
 
 # <img src="https://github.com/user-attachments/assets/281b4061-e87f-4c25-b62c-46fa20ad86f1" width="5%" height="30%" style="margin: 0 10px;" alt="Blockchain Solana"> Setup
-## First method install📦 Quick Start (Start.sh)
+## 📦First method install Quick Start (Start.sh)
 
 ```bash
 # 1. Download packets (if missing)
@@ -23,7 +23,7 @@ cd solana-rugpull-demo
 
 > Interactive demonstration of Solana token rugpull mechanics with Docker containerization
 
-## Second method install📦 Prérequis
+## 📦Second method install Prérequis
 
 - Docker installé ([Installation Guide](https://docs.docker.com/get-docker/))
 - Compte GitHub
