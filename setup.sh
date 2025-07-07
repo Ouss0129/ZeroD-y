@@ -15,7 +15,7 @@ fi
 
 # 2. Télécharger l'image Docker
 echo -e "\033[1;33m1. Téléchargement de l'image Docker...\033[0m"
-docker pull ghcr.io/ouss0129/prg-image:latest || {
+docker pull ghcr.io/ouss0129/demodevnet:latest || {
     echo -e "\033[1;31mÉchec du téléchargement de l'image.\033[0m"
     exit 1
 }
@@ -26,10 +26,10 @@ mkdir -p "$(pwd)/data"
 # 4. Lancer le conteneur
 echo -e "\033[1;33m2. Lancement du conteneur...\033[0m"
 docker run -it --rm \
-  --name prg-image \
+  --name demodevnet \
   -v "$(pwd)/data:/app/data" \
   -p 455:455 \
-  ghcr.io/ouss0129/prg-image \
+  ghcr.io/ouss0129/demodevnet \
   ./rugpull_realistic.py || {
     echo -e "\033[1;31mErreur lors du lancement du conteneur.\033[0m"
     exit 1
