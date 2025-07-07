@@ -42,11 +42,6 @@ docker run -it --name demodevnet \
   -p 455:455 \
   ghcr.io/ouss0129/demodevnet
 ```
-
-## 3. Exécuter le script (dans le conteneur)
-```
-./rugpull_realistic.py
-```
 ---
 
 ### Interactive Menu Features
