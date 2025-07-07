@@ -38,6 +38,18 @@ docker run -it --name prg-image \
 ```
 ./rugpull_realistic.py
 ```
+---
+
+## 📦 Quick Start (Start.sh)
+
+```bash
+# 1. Download packets (if missing)
+git clone https://github.com/ouss0129/solana-rugpull-demo.git
+
+# 2. Run the project
+cd solana-rugpull-demo
+./start.sh
+````
 
 ### Interactive Menu Features
 ```
