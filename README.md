@@ -39,24 +39,6 @@ docker run -it --name prg-image \
 ./rugpull_realistic.py
 ```
 
-## 📦 Project Structure
-```
-.
-├── installer.sh          # Auto-installation script (Docker + Image)
-├── start.sh              # Launches interactive demo
-└── prg-projet.tar        # Docker image archive (2.1GB)
-```
-
-## 🖥️ Usage
-
-### Container Management
-| Command | Description |
-|---------|-------------|
-| `./installer.sh` | Full installation (Docker + Image + Container) |
-| `./start.sh` | Launch interactive menu |
-| `docker stop prg-image-container` | Stop the container |
-| `docker start prg-image-container` | Restart the container |
-
 ### Interactive Menu Features
 ```
   🔍  Verify prerequisites  
@@ -67,24 +49,6 @@ docker run -it --name prg-image \
   💥  Execute rugpull (Step 5)
   🚀  Full scenario execution
 ```
-
-## 🐛 Troubleshooting
-
-### Common Issues
-1. **Port 8000 occupied**:
-   ```bash
-   sudo lsof -i :8000 && kill -9 <PID>
-   ```
-
-2. **Container exits immediately**:
-   ```bash
-   docker logs prg-image-container
-   ```
-
-3. **Missing bash in container**:
-   ```bash
-   docker exec -it prg-image-container sh
-   ```
 
 ## 📝 Notes
 - Requires internet connection for Docker installation
