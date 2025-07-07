@@ -25,7 +25,6 @@ cd solana-rugpull-demo
 ```
 ./start.sh
 ```
-````
 
 > Interactive demonstration of Solana token rugpull mechanics with Docker containerization
 
