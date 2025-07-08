@@ -16,7 +16,7 @@ Quick Start (Start.sh)
 
 #### 1. Download packets (if missing)
 ```
-git clone https://github.com/ouss0129/solana-rugpull-demo.git
+git clone git@github.com:Ouss0129/ZeroD-y.git
 ```
 #### 2. Run the project
 ```
