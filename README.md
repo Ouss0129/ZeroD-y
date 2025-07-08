@@ -10,7 +10,7 @@
 ```
 
 # <img src="https://github.com/user-attachments/assets/281b4061-e87f-4c25-b62c-46fa20ad86f1" width="5%" height="30%" style="margin: 0 10px;" alt="Blockchain Solana"> Setup
-## 📦Première méthode d'installation :
+## 📦First installation method :
 Quick Start (Start.sh)
 
 
@@ -28,18 +28,18 @@ cd solana-rugpull-demo
 
 > Interactive demonstration of Solana token rugpull mechanics with Docker containerization
 
-## 📦Seconde méthode d'installation : 
-Prérequis
+## 📦Second installation method: 
+Prerequisites
 
-- Docker installé ([Installation Guide](https://docs.docker.com/get-docker/))
-- Compte GitHub
-- 4GB de RAM minimum recommandé
+- Docker installed ([Installation Guide](https://docs.docker.com/get-docker/))
+- GitHub account
+- 4GB RAM minimum recommended
 
-## 1. Télécharger l'image Docker
+## 1. Download Docker image
 ```
 docker pull ghcr.io/ouss0129/demodevnet:latest
 ```
-## 2. Lancer le conteneur (avec volume pour la persistance)
+## 2. Launch container (with volume for persistence)
 ```
 docker run -it --name demodevnet \
   -v $(pwd)/data:/app/data \
