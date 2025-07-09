@@ -20,7 +20,7 @@ git clone https://github.com/Ouss0129/ZeroD-y.git
 ```
 #### 2. Run the project
 ```
-cd solana-rugpull-demo
+cd ZeroD-y
 ```
 ```
 ./setup.sh
