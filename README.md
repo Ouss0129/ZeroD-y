@@ -23,7 +23,10 @@ git clone https://github.com/Ouss0129/ZeroD-y.git
 cd ZeroD-y
 ```
 ```
-./setup.sh
+chmod +x setup.sh
+```
+```
+sudo ./setup.sh
 ```
 
 > Interactive demonstration of Solana token rugpull mechanics with Docker containerization
