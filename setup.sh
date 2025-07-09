@@ -23,7 +23,14 @@ docker pull ghcr.io/ouss0129/demodevnet:latest || {
 # 3. Créer le dossier de données si inexistant
 mkdir -p "$(pwd)/data"
 
-# 4. Lancer le conteneur
+# 4. Supprime le conteneur si jamais il existe déjà.
+if docker ps -a --filter "name=demodevnet" | grep -q demodevnet; then
+    echo -e "\033[1;33mLe conteneur existe déjà. Arrêt et suppression...\033[0m"
+    docker stop demodevnet > /dev/null 2>&1
+    docker rm demodevnet > /dev/null 2>&1
+fi
+
+# 5. Lancer le conteneur
 echo -e "\033[1;33m2. Lancement du conteneur...\033[0m"
 docker run -it --rm \
   --name demodevnet \
