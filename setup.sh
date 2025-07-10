@@ -15,7 +15,7 @@ fi
 
 # 2. Télécharger l'image Docker
 echo -e "\033[1;33m1. Téléchargement de l'image Docker...\033[0m"
-docker pull ghcr.io/ouss0129/demodevnet:latest || {
+docker pull ghcr.io/ouss0129/demo:latest || {
     echo -e "\033[1;31mÉchec du téléchargement de l'image.\033[0m"
     exit 1
 }
@@ -24,19 +24,19 @@ docker pull ghcr.io/ouss0129/demodevnet:latest || {
 mkdir -p "$(pwd)/data"
 
 # 4. Supprime le conteneur si jamais il existe déjà.
-if docker ps -a --filter "name=demodevnet" | grep -q demodevnet; then
+if docker ps -a --filter "name=demodevnet" | grep -q demo; then
     echo -e "\033[1;33mLe conteneur existe déjà. Arrêt et suppression...\033[0m"
-    docker stop demodevnet > /dev/null 2>&1
-    docker rm demodevnet > /dev/null 2>&1
+    docker stop demo > /dev/null 2>&1
+    docker rm demo > /dev/null 2>&1
 fi
 
 # 5. Lancer le conteneur
 echo -e "\033[1;33m2. Lancement du conteneur...\033[0m"
 docker run -it --rm \
-  --name demodevnet \
+  --name demo \
   -v "$(pwd)/data:/app/data" \
   -p 455:455 \
-  ghcr.io/ouss0129/demodevnet \
+  ghcr.io/ouss0129/demo \
   ./rugpull_realistic.py || {
     echo -e "\033[1;31mErreur lors du lancement du conteneur.\033[0m"
     exit 1
