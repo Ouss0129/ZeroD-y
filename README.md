@@ -40,14 +40,14 @@ Prerequisites
 
 ## 1. Download Docker image
 ```
-docker pull ghcr.io/ouss0129/demodevnet:latest
+docker pull ghcr.io/ouss0129/demo:latest
 ```
 ## 2. Launch container (with volume for persistence)
 ```
-docker run -it --name demodevnet \
+docker run -it --name demo \
   -v $(pwd)/data:/app/data \
   -p 455:455 \
-  ghcr.io/ouss0129/demodevnet
+  ghcr.io/ouss0129/demo
 ```
 ---
 
