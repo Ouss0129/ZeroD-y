@@ -13,7 +13,12 @@
 ## 📦First installation method :
 Quick Start (Start.sh)
 
+Prerequisites
 
+- Docker installed ([Installation Guide](https://docs.docker.com/get-docker/))
+- GitHub account
+- 4GB RAM minimum recommended
+  
 #### 1. Download packets (if missing)
 ```
 git clone https://github.com/Ouss0129/ZeroD-y.git
