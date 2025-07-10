@@ -37,12 +37,6 @@ sudo ./setup.sh
 > Interactive demonstration of Solana token rugpull mechanics with Docker containerization
 
 ## 📦Second installation method: 
-Prerequisites
-
-- Docker installed ([Installation Guide](https://docs.docker.com/get-docker/))
-- GitHub account
-- 4GB RAM minimum recommended
-
 ## 1. Download Docker image
 ```
 docker pull ghcr.io/ouss0129/demo:latest
