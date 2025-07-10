@@ -8,8 +8,7 @@ echo -e "\033[1;36m=== INSTALLATION DU PROJET SOLANA RUGPULL ===\033[0m"
 # 1. Vérifier que Docker est installé
 if ! command -v docker &> /dev/null; then
     echo -e "\033[1;31mERREUR : Docker n'est pas installé.\033[0m"
-    echo "Installez Docker avec :"
-    echo "  curl -fsSL https://get.docker.com | sh"
+    curl -fsSL https://get.docker.com | sh
     exit 1
 fi
 
